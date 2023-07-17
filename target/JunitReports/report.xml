@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="3.351" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="limeroad order" name="To search a product for men" time="3.188">
+<system-out><![CDATA[
+Given Launch the browser....................................................passed
+When user open the url "https://www.limeroad.com/"..........................passed
+And click on shop men.......................................................passed
+Then user should see the products displayed for men.........................passed
+]]></system-out>
+</testcase>
+</testsuite>
